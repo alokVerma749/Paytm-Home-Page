@@ -16,7 +16,7 @@
 
   <p align="center">
     <br />
-    <a href="https://alokverma-paytm.netlify.app/">Live Link</a>
+    <a href="https://alokverma-paymentapp.netlify.app/">Live Link</a>
   </p>
 </div>
 
@@ -67,7 +67,7 @@ This project is presently deployed in **Netlify Service**
 
 [![Netlify][netlify-shield]][project-url]
 
-[Live Project URL](https://alokverma-paytm.netlify.app/)
+[Live Project URL](https://alokverma-paymentapp.netlify.app/)
 
 <!-- LEARNT -->
 
