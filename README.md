@@ -20,6 +20,9 @@
   </p>
 </div>
 
+![image](https://github.com/alokVerma749/Paytm-Home-Page/assets/87599400/f925ee7c-bc45-4f2e-8aec-24435dec2e85)
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
